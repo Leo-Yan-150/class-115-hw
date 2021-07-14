@@ -8,6 +8,7 @@ canvas{
     animation-name:wonimation;
     animation-duration:4s;
     animation-iteration-count: infinite;
+    margin-top:60px;
 }
 @keyframes wonimation{
     
